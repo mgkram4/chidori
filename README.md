@@ -22,7 +22,7 @@ A real-time computer vision application that combines MediaPipe's hand tracking 
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+gh repo clone mgkram4/chidori
 cd coolmediapipe
 ```
 
